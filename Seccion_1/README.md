@@ -46,6 +46,6 @@ Adicionalmente, si se cuenta con un computador con suficiente capacidad de proce
 
 ## Lista de Ejemplos
 
-- [Ejemplo 1: Carga de datos en Colab - Clientes Centro Comercial](Seccion_1/Ejemplo_1_mall_customers_clustering.ipynb)
+- [Ejemplo 1: Carga de datos en Colab - Clientes Centro Comercial](Ejemplo_1_mall_customers_clustering.ipynb)
 - [Ejemplo 2: Carga de datos en Colab - Costo del Seguro](Ejemplo_2-unsurance_cost_regression.ipynb)
 - [Ejemplo 3: Carga de datos en Colab - Calidad del Vino](Ejemplo_3-WineQT_classification.ipynb)
