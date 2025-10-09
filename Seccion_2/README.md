@@ -39,8 +39,8 @@ El aprendizaje no supervisado se puede dividir en dos categorías: agrupamiento 
 
 * **Algoritmos de Agrupamiento**
   
-  * [K-Means](https://es.wikipedia.org/wiki/K-means)
-  * [DBSCAN](https://es.wikipedia.org/wiki/DBSCAN)
+  * [K-Means](https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/)
+  * [DBSCAN](https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/)
 
 ## Lista de Ejemplos
 
