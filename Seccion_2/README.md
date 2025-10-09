@@ -14,19 +14,19 @@ El aprendizaje supervisado se puede dividir en dos categorías: clasificación y
 ### Modelos de Aprendizaje Supervisado
 
 * **Algoritmos de Clasificación**
-  * [Regresión Logística](https://es.wikipedia.org/wiki/Regresi%C3%B3n_log%C3%ADstica)
-  * [Árboles de Decisión](https://es.wikipedia.org/wiki/%C3%81rbol_de_decisi%C3%B3n)
-  * [Máquinas de Soporte Vectorial](https://es.wikipedia.org/wiki/M%C3%A1quinas_de_vectores_de_soporte)
-  * [K-Vecinos Más Cercanos](https://es.wikipedia.org/wiki/K_vecinos_m%C3%A1s_pr%C3%B3ximos)
-  * [Naive Bayes](https://es.wikipedia.org/wiki/Clasificador_bayesiano_ingenuo)
-  * [XGBoost](https://es.wikipedia.org/wiki/XGBoost)
+  * [Regresión Logística](https://numiqo.com/tutorial/logistic-regression)
+  * [Árboles de Decisión](https://www.geeksforgeeks.org/machine-learning/decision-tree-introduction-example/)
+  * [Máquinas de Soporte Vectorial](https://www.geeksforgeeks.org/machine-learning/support-vector-machine-algorithm/)
+  * [K-Vecinos Más Cercanos](https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/)
+  * [Naive Bayes](https://www.geeksforgeeks.org/machine-learning/naive-bayes-classifiers/)
+  * [XGBoost](https://www.geeksforgeeks.org/machine-learning/xgboost/)
   
 * **Algoritmos de Regresión**
-  * [Regresión Lineal](https://es.wikipedia.org/wiki/Regresi%C3%B3n_lineal)
-  * [Árboles de Decisión](https://es.wikipedia.org/wiki/%C3%81rbol_de_decisi%C3%B3n)
-  * [Máquinas de Soporte Vectorial](https://es.wikipedia.org/wiki/M%C3%A1quinas_de_vectores_de_soporte)
-  * [K-Vecinos Más Cercanos](https://es.wikipedia.org/wiki/K_vecinos_m%C3%A1s_pr%C3%B3ximos)
-  * [XGBoost](https://es.wikipedia.org/wiki/XGBoost)
+  * [Regresión Lineal](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/)
+  * [Árboles de Decisión](https://www.geeksforgeeks.org/machine-learning/python-decision-tree-regression-using-sklearn/)
+  * [Máquinas de Soporte Vectorial](https://www.geeksforgeeks.org/machine-learning/support-vector-regression-svr-using-linear-and-non-linear-kernels-in-scikit-learn/)
+  * [K-Vecinos Más Cercanos](https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbors-knn-regression-with-scikit-learn/)
+  * [XGBoost](https://www.geeksforgeeks.org/machine-learning/xgboost-for-regression/)
 
 
 ## Aprendizaje No Supervisado
