@@ -1,3 +1,7 @@
+Aquí tienes una propuesta para el archivo `README.md` de tu repositorio de GitHub, enfocado en la visualización de datos para *storytelling* con un enfoque académico y detallado.
+
+-----
+
 # Visualización de Datos para la Narración de Historias (Data Storytelling)
 
 Una Guía Académica sobre Enfoques, Técnicas y Herramientas para la Comunicación Efectiva de Insights.
