@@ -1,7 +1,3 @@
-Aquí tienes una propuesta para el archivo `README.md` de tu repositorio de GitHub, enfocado en la visualización de datos para *storytelling* con un enfoque académico y detallado.
-
------
-
 # Visualización de Datos para la Narración de Historias (Data Storytelling)
 
 Una Guía Académica sobre Enfoques, Técnicas y Herramientas para la Comunicación Efectiva de Insights.
@@ -131,3 +127,4 @@ La visualización de datos efectiva para el *storytelling* es una habilidad de s
   * **Wickham, H. (2016).** *ggplot2: Elegant Graphics for Data Analysis.* Springer.
   * **Healy, K. (2018).** *Data Visualization: A Practical Introduction.* Princeton University Press.
   * **Cairo, A. (2016).** *The Truthful Art: Data, Charts, and Maps for Communication.* New Riders.
+
